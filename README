@@ -1,0 +1,4 @@
+This project serves as a baseline example for SDL applications. It simply controls a red square around the 
+screen and fires projectiles.
+
+For those looking to verify their SDL installation or video driver configuration is compatible with SDL.
